@@ -108,7 +108,7 @@ export default function Home() {
                   />
                 }
                 title="Carnes Premium Selecionadas"
-                desc="Apenas os melhores cortes de fornecedores confiáveis"
+                desc="Apenas os melhores cortes de fornecedores confiáveis."
               />
               <FeatureItem
                 icon={
@@ -120,7 +120,7 @@ export default function Home() {
                   />
                 }
                 title="Entrega Rápida"
-                desc="Receba suas carnes frescas em poucas horas"
+                desc="Receba suas carnes frescas em poucos minutos."
               />
               <FeatureItem
                 icon={
@@ -132,7 +132,7 @@ export default function Home() {
                   />
                 }
                 title="Açougues Parceiros"
-                desc="Conecte-se com os melhores açougues da sua região"
+                desc="Conecte-se com os melhores açougues da sua região."
               />
             </div>
 
